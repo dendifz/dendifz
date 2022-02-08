@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I am Dendi. 👋
+
+Enthusiastic and highly motivated Informatics Engineering student to explore the world in IT and Programming.
+I have knowledge in backend programming languages such as php, python, js, and etc
+
+* 🌱 I’m currently learning at Politeknik Negeri Jakarta
+* 💬 Get to know with me? Follow my [Linkedln](https://www.linkedin.com/in/dendi-fazar-zaman/)
+
 
 <!--
 **dendifz/dendifz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
