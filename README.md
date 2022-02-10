@@ -3,7 +3,8 @@
 Enthusiastic and highly motivated Informatics Engineering student to explore the world in IT and Programming.
 I have knowledge in backend programming languages such as php, python, js, and etc
 
-* 🌱 I’m currently learning at Politeknik Negeri Jakarta
+* 🌱 I’m currently learning at [Politeknik Negeri Jakarta](https://www.pnj.ac.id/)
+* 🔭 I once served as the head of the Android Division of [Sahabat PNJ](https://www.instagram.com/sahabat_pnj/) for the 2020-2021 period at my campus.
 * 💬 Get to know with me? Follow my [Linkedln](https://www.linkedin.com/in/dendi-fazar-zaman/)
 
 ### Tech Stack
